@@ -1,0 +1,375 @@
+warning: LF will be replaced by CRLF in assets/css/style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/animate.css/animate.compat.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/animate.css/animate.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/animate.css/animate.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap-grid.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap-grid.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap-reboot.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap-reboot.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/js/bootstrap.bundle.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/js/bootstrap.bundle.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/js/bootstrap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/counterup/counterup.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/font-awesome/css/font-awesome.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/font-awesome/css/font-awesome.css.map.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/font-awesome/css/font-awesome.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/font-awesome/fonts/fontawesome-webfont.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/icofont/icofont.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/ionicons/css/ionicons.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/ionicons/css/ionicons.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/ionicons/fonts/ionicons.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/isotope-layout/isotope.pkgd.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/isotope-layout/isotope.pkgd.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/jquery/jquery.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.carousel.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.carousel.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.theme.default.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.theme.default.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.theme.green.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/assets/owl.theme.green.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/owl.carousel.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/owl.carousel/owl.carousel.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/venobox/venobox.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/venobox/venobox.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/venobox/venobox.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/venobox/venobox.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/vendor/waypoints/jquery.waypoints.min.js.
+The file will have its original line endings in your working directory
+[1mdiff --git a/assets/img/about-mission.jpg b/assets/img/about-mission.jpg[m
+[1mindex f1a83a0..fc533e4 100644[m
+Binary files a/assets/img/about-mission.jpg and b/assets/img/about-mission.jpg differ
+[1mdiff --git a/assets/img/about-vision.jpg b/assets/img/about-vision.jpg[m
+[1mindex 408808c..d4400d3 100644[m
+Binary files a/assets/img/about-vision.jpg and b/assets/img/about-vision.jpg differ
+[1mdiff --git a/assets/img/apple-touch-icon.png b/assets/img/apple-touch-icon.png[m
+[1mindex 447cec2..ac389b0 100644[m
+Binary files a/assets/img/apple-touch-icon.png and b/assets/img/apple-touch-icon.png differ
+[1mdiff --git a/assets/img/favicon.png b/assets/img/favicon.png[m
+[1mindex d752fd5..b2ebed3 100644[m
+Binary files a/assets/img/favicon.png and b/assets/img/favicon.png differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex a17e1e8..e015a0a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,7 +5,7 @@[m
+   <meta charset="utf-8">[m
+   <meta content="width=device-width, initial-scale=1.0" name="viewport">[m
+ [m
+[31m-  <title>BizPage Bootstrap Template</title>[m
+[32m+[m[32m  <title>Manuel Calderón - Perfil profesional</title>[m
+   <meta content="" name="descriptison">[m
+   <meta content="" name="keywords">[m
+ [m
+[36m@@ -46,6 +46,8 @@[m
+       <div class="row justify-content-center">[m
+         <div class="col-xl-11 d-flex align-items-center">[m
+           <h1 class="logo mr-auto"><a href="index.html">Perfil profesional</a></h1>[m
+[32m+[m[32m          <!-- Uncomment below if you prefer to use an image logo -->[m
+[32m+[m[32m          <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>[m
+ [m
+           <nav class="nav-menu d-none d-lg-block">[m
+             <ul>[m
+[36m@@ -96,12 +98,12 @@[m
+ [m
+         <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">[m
+           <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>[m
+[31m-          <span class="sr-only">asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf</span>[m
+[32m+[m[32m          <span class="sr-only">Anterior</span>[m
+         </a>[m
+ [m
+         <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">[m
+           <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>[m
+[31m-          <span class="sr-only">Next</span>[m
+[32m+[m[32m          <span class="sr-only">Siguiente</span>[m
+         </a>[m
+ [m
+       </div>[m
+[36m@@ -117,8 +119,14 @@[m
+ [m
+           <div class="col-lg-4 box">[m
+             <i class="ion-ios-bookmarks-outline"></i>[m
+[31m-            <h4 class="title"><a href="">Lorem Ipsum Delsdfsdfsddsdfdsfino</a></h4>[m
+[31m-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>[m
+[32m+[m[32m            <h4 class="title"><a href="">Formación académica</a></h4>[m
+[32m+[m[32m            <p class="description">Técnico en electrónica - Centro de Bachillerato Tecnológico Industrial y de Servicios No. 121, 2010 – 2013.[m[41m [m
+[32m+[m[41m            [m	[32mAcreditación de competencias tecnológicas para la productividad (autorizado por la S.T.P.S.)[m
+[32m+[m[41m            [m	[32mIFI-080305IA13-0013 – 2011 – Microsoft Word, Excel y Power Point.[m
+[32m+[m[41m            [m	[32mIFI-080305IA13-0013 – 2012 – Soporte Técnico de Nivel 1 (Microsoft).[m
+[32m+[m[41m            [m	[32mIng. Electrónica (trunca) - Instituto Tecnológico de San Luis Potosí, 2013 – 2015.[m
+[32m+[m[41m            [m	[32mIng. Sistemas Computacionales (actual) - Instituto Tecnológico de San Luis Potosí, 2018 - Presente.[m
+[32m+[m[32m</p>[m
+           </div>[m
+ [m
+           <div class="col-lg-4 box box-bg">[m
+[36m@@ -193,6 +201,66 @@[m
+       </div>[m
+     </section><!-- End About Us Section -->[m
+ [m
+[32m+[m
+[32m+[m
+[32m+[m[32m    <!-- ======= Skills Section ======= -->[m
+[32m+[m[32m    <section id="skills">[m
+[32m+[m[32m      <div class="container" data-aos="fade-up">[m
+[32m+[m
+[32m+[m[32m        <header class="section-header">[m
+[32m+[m[32m          <h3>Mis habilidades</h3>[m
+[32m+[m[32m          <p>Actualmente por mi grado de estudios, aún me encuentro en formacion profesional, por lo que estoy en un proceso de aprendizaje, lo que me resulta en mucha más motivación para ser un gran profesionista.</p>[m
+[32m+[m[32m        </header>[m
+[32m+[m
+[32m+[m[32m        <div class="skills-content">[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">JAVA <i class="val">70%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">Python <i class="val">20%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">C/C++ <i class="val">35%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">Paqueteria adobe: Ps, Pr, Ae, Ai<i class="val">30%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">Paqueteria Office: Word, Excel, Power Point <i class="val">75%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">Bases de datos <i class="val">35%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m          <div class="progress">[m
+[32m+[m[32m            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">[m
+[32m+[m[32m              <span class="skill">Photoshop <i class="val">55%</i></span>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m          </div>[m
+[32m+[m
+[32m+[m[32m        </div>[m
+[32m+[m
+[32m+[m[32m      </div>[m
+[32m+[m[32m    </section><!-- End Skills Section -->[m
+[32m+[m
+     <!-- ======= Services Section ======= -->[m
+     <section id="services">[m
+       <div class="container" data-aos="fade-up">[m
+[36m@@ -240,54 +308,7 @@[m
+       </div>[m
+     </section><!-- End Services Section -->[m
+ [m
+[31m-    <!-- ======= Call To Action Section ======= -->[m
+[31m-    <section id="call-to-action">[m
+[31m-      <div class="container text-center" data-aos="zoom-in">[m
+[31m-        <h3>Call To Action</h3>[m
+[31m-        <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>[m
+[31m-        <a class="cta-btn" href="#">Call To Action</a>[m
+[31m-      </div>[m
+[31m-    </section><!-- End Call To Action Section -->[m
+[31m-[m
+[31m-    <!-- ======= Skills Section ======= -->[m
+[31m-    <section id="skills">[m
+[31m-      <div class="container" data-aos="fade-up">[m
+[31m-[m
+[31m-        <header class="section-header">[m
+[31m-          <h3>Our Skills</h3>[m
+[31m-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>[m
+[31m-        </header>[m
+[31m-[m
+[31m-        <div class="skills-content">[m
+[31m-[m
+[31m-          <div class="progress">[m
+[31m-            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">[m
+[31m-              <span class="skill">HTML <i class="val">100%</i></span>[m
+[31m-            </div>[m
+[31m-          </div>[m
+[31m-[m
+[31m-          <div class="progress">[m
+[31m-            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">[m
+[31m-              <span class="skill">CSS <i class="val">90%</i></span>[m
+[31m-            </div>[m
+[31m-          </div>[m
+[31m-[m
+[31m-          <div class="progress">[m
+[31m-            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">[m
+[31m-              <span class="skill">JavaScript <i class="val">75%</i></span>[m
+[31m-            </div>[m
+[31m-          </div>[m
+[31m-[m
+[31m-          <div class="progress">[m
+[31m-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">[m
+[31m-              <span class="skill">Photoshop <i class="val">55%</i></span>[m
+[31m-            </div>[m
+[31m-          </div>[m
+[31m-[m
+[31m-        </div>[m
+[31m-[m
+[31m-      </div>[m
+[31m-    </section><!-- End Skills Section -->[m
+[32m+[m[41m   [m
+ [m
+     <!-- ======= Facts Section ======= -->[m
+     <section id="facts">[m
+[36m@@ -490,27 +511,6 @@[m
+       </div>[m
+     </section><!-- End Portfolio Section -->[m
+ [m
+[31m-    <!-- ======= Our Clients Section ======= -->[m
+[31m-    <section id="clients">[m
+[31m-      <div class="container" data-aos="zoom-in">[m
+[31m-[m
+[31m-        <header class="section-header">[m
+[31m-          <h3>Our Clients</h3>[m
+[31m-        </header>[m
+[31m-[m
+[31m-        <div class="owl-carousel clients-carousel">[m
+[31m-          <img src="assets/img/clients/client-1.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-2.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-3.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-4.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-5.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-6.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-7.png" alt="">[m
+[31m-          <img src="assets/img/clients/client-8.png" alt="">[m
+[31m-        </div>[m
+[31m-[m
+[31m-      </div>[m
+[31m-    </section><!-- End Our Clients Section -->[m
+ [m
+     <!-- ======= Testimonials Section ======= -->[m
+     <section id="testimonials" class="section-bg">[m
+[36m@@ -589,8 +589,8 @@[m
+       <div class="container" data-aos="fade-up">[m
+ [m
+         <div class="section-header">[m
+[31m-          <h3>Contact Us</h3>[m
+[31m-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>[m
+[32m+[m[32m          <h3>Contactame</h3>[m
+[32m+[m[32m          <p>La comunicación es una ventana de oportunidades.</p>[m
+         </div>[m
+ [m
+         <div class="row contact-info">[m
+[36m@@ -598,24 +598,24 @@[m
+           <div class="col-md-4">[m
+             <div class="contact-address">[m
+               <i class="ion-ios-location-outline"></i>[m
+[31m-              <h3>Address</h3>[m
+[31m-              <address>A108 Adam Street, NY 535022, USA</address>[m
+[32m+[m[32m              <h3>Dirección</h3>[m
+[32m+[m[32m              <address>San Luis Potosí, México.</address>[m
+             </div>[m
+           </div>[m
+ [m
+           <div class="col-md-4">[m
+             <div class="contact-phone">[m
+               <i class="ion-ios-telephone-outline"></i>[m
+[31m-              <h3>Phone Number</h3>[m
+[31m-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>[m
+[32m+[m[32m              <h3>Número telefónico</h3>[m
+[32m+[m[32m              <p><a href="tel:+524443291876">+52 444 3 29 18 76</a></p>[m
+             </div>[m
+           </div>[m
+ [m
+           <div class="col-md-4">[m
+             <div class="contact-email">[m
+               <i class="ion-ios-email-outline"></i>[m
+[31m-              <h3>Email</h3>[m
+[31m-              <p><a href="mailto:info@example.com">info@example.com</a></p>[m
+[32m+[m[32m              <h3>Correo electrónico</h3>[m
+[32m+[m[32m              <p><a href="mailto:kiidees@gmail.com">kiidees@gmail.com</a></p>[m
+             </div>[m
+           </div>[m
+ [m
+[36m@@ -626,28 +626,27 @@[m
+ [m
+         <div class="form">[m
+           <form name="gform" id="gform" enctype="text/plain" role="form" class="php-email-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeq1GCTXCyEwi3GTeiPqZSrZFSUx0WPaqRTZdF7FMnqI61eeA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">[m
+[31m-          	<!--<form action="forms/contact.php" method="post" role="form" class="php-email-form">-->[m
+             <div class="form-row">[m
+               <div class="form-group col-md-6">[m
+[31m-                <input type="text" name="entry.2128912666" class="form-control" id="entry.2128912666" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />[m
+[32m+[m[32m                <input type="text" name="entry.2128912666" class="form-control" id="entry.2128912666" placeholder="Tu nombre." data-rule="minlen:4" data-msg="POr favor escribe tu nombre." />[m
+                 <div class="validate"></div>[m
+               </div>[m
+               <div class="form-group col-md-6">[m
+[31m-                <input type="email" class="form-control" name="entry.295757499" id="entry.295757499" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />[m
+[32m+[m[32m                <input type="email" class="form-control" name="entry.295757499" id="entry.295757499" placeholder="Tu correo." data-rule="email" data-msg="Verifica que escribes un correo válido." />[m
+                 <div class="validate"></div>[m
+               </div>[m
+             </div>[m
+             <div class="form-group">[m
+[31m-              <input type="text" class="form-control" name="entry.241019849" id="entry.241019849" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />[m
+[32m+[m[32m              <input type="text" class="form-control" name="entry.241019849" id="entry.241019849" placeholder="Asunto." data-rule="minlen:4" data-msg="Por favor escribeme el asunto." />[m
+               <div class="validate"></div>[m
+             </div>[m
+             <div class="form-group">[m
+[31m-              <textarea class="form-control" name="entry.1122323131" id="entry.1122323131" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>[m
+[32m+[m[32m              <textarea class="form-control" name="entry.1122323131" id="entry.1122323131" rows="5" data-rule="required" data-msg="Por favor escribeme algo." placeholder="Mensaje."></textarea>[m
+               <div class="validate"></div>[m
+             </div>[m
+             <div class="mb-3">[m
+             </div>[m
+[31m-            <div class="text-center"><button type="submit">Send Message</button></div>[m
+[32m+[m[32m            <div class="text-center"><button type="submit">Enviar mensaje</button></div>[m
+           </form>[m
+           <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"> </iframe>[m
+         </div>  [m
