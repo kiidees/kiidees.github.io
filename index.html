@@ -13,6 +13,10 @@
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+  <!-- Variable declaration -->
+  <script type="text/javascript">var submitted=false;</script>
+  <script type="text/javascript">var errorForm=false;</script>
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
@@ -578,33 +582,31 @@
           <form name="gform" id="gform" enctype="text/plain" role="form" class="php-email-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeq1GCTXCyEwi3GTeiPqZSrZFSUx0WPaqRTZdF7FMnqI61eeA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
             <div class="form-row">
               <div class="form-group col-md-6">
-                <input type="text" name="entry.2128912666" class="form-control" id="entry.2128912666" placeholder="Tu nombre." data-rule="minlen:4" data-msg="POr favor escribe tu nombre." />
-                <div class="validate"></div>
+                <input type="text" name="entry.2128912666" class="form-control" id="entry.2128912666" placeholder="Tu nombre." data-rule="minlen:4" data-msg="Por favor escribe tu nombre." />
+                <div class="validate" ></div>
               </div>
               <div class="form-group col-md-6">
                 <input type="email" class="form-control" name="entry.295757499" id="entry.295757499" placeholder="Tu correo." data-rule="email" data-msg="Verifica que escribes un correo válido." />
-                <div class="validate"></div>
+                <div class="validate" ></div>
               </div>
             </div>
             <div class="form-group">
               <input type="text" class="form-control" name="entry.241019849" id="entry.241019849" placeholder="Asunto." data-rule="minlen:4" data-msg="Por favor escribeme el asunto." />
-              <div class="validate"></div>
+              <div class="validate" ></div>
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="entry.1122323131" id="entry.1122323131" rows="5" data-rule="required" data-msg="Por favor escribeme algo." placeholder="Mensaje."></textarea>
-              <div class="validate"></div>
+              <textarea class="form-control" name="entry.1122323131" id="entry.1122323131" rows="5" data-rule="minlen:4" data-msg="Por favor escribeme algo." placeholder="Mensaje."></textarea>
+              <div class="validate" ></div>
             </div>
             <div class="mb-3">
-            </div>
-            <div class="text-center"><button type="submit">Enviar mensaje</button></div>
-          </form>
-          <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"> </iframe>
-        </div>  
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
+            </div> 
+            <div class="text-center" ><button type="submit" >Enviar mensaje</button></div>
+        </form>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"> </iframe>
+    </div> 
+</div>
+</section><!-- End Contact Section -->
+</main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -646,10 +648,9 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/jquery.min.js"></script>
-  <script type="text/javascript">var submitted=false;</script>
   <script type="text/javascript"> $('#gform').on('submit', function(e) {
-  	$('#gform *').fadeOut(2000);
-  	$('#gform').prepend('Your submission has been processed...');
+  	$('#gform *').fadeOut(8000);
+  	$('#gform').prepend('Tu mensaje se esta enviando... Si detectas un error en algún campo, favor de recargar la página.');
   });</script>
 
 </body>
